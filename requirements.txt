@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+openpyxl
+Pillow
+PyYAML
+streamlit-autorefresh
+h5py
+tensorflow
+joblib
+ultralytics
+plotly
+streamlit-extras
